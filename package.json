@@ -11,7 +11,7 @@
   ],
   "dependencies": {
     "logplease": "~1.2.15",
-    "orbit-db": "git://github.com/iohzrd/orbit-db.git"
+    "orbit-db": "0.24.2"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
